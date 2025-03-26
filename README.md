@@ -41,6 +41,7 @@ Uses Aptos Framework modules (signer, coin, aptos_coin).
 This smart contract lays the foundation for a decentralized micro-lending ecosystem on Aptos. Future improvements will focus on enhancing security, scalability, and accessibility.
 
 Contact Address 
+
 0x92e6453ed7cc076d11bfe520744b91f4fb9d78d626b5010e5b645c36f6bb78a7
 
 Transaction
